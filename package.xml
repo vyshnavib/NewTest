@@ -6,4 +6,64 @@
         <members>Test123</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Asset-Asset Layout</members>
+        <members>Campaign-Campaign Layout</members>
+        <members>CampaignMember-Campaign Member Page Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Account.AllAccounts</members>
+        <members>Account.MyAccounts</members>
+        <members>Account.NewLastWeek</members>
+        <members>Account.NewThisWeek</members>
+        <members>Account.PlatinumandGoldSLACustomers</members>
+        <members>Activity.AllActivities</members>
+        <members>Activity.MyActivities</members>
+        <members>Activity.TodaysTasks</members>
+        <members>Activity.UpcomingEvents</members>
+        <members>Asset.AllAssets</members>
+        <members>Campaign.AllActiveCampaigns</members>
+        <members>Campaign.MyActiveCampaigns</members>
+        <members>Case.AllClosedCases</members>
+        <members>Case.AllOpenCases</members>
+        <members>Case.MyCases</members>
+        <members>Case.MyOpenCases</members>
+        <members>Contact.AllContacts</members>
+        <members>Contact.BirthdaysThisMonth</members>
+        <members>Contact.MyContacts</members>
+        <members>Contact.NewLastWeek</members>
+        <members>Contact.NewThisWeek</members>
+        <members>Contract.AllActivatedContracts</members>
+        <members>Contract.AllContracts</members>
+        <members>Contract.AllDraftContracts</members>
+        <members>Contract.AllInApprovalContracts</members>
+        <members>Contract.MyActivatedContracts</members>
+        <members>Contract.MyDraftContracts</members>
+        <members>Contract.MyInApprovalContracts</members>
+        <members>Lead.AllOpenLeads</members>
+        <members>Lead.MyUnreadLeads</members>
+        <members>Lead.TodaysLeads</members>
+        <members>Lead.ViewCustom1</members>
+        <members>Lead.ViewCustom2</members>
+        <members>Opportunity.AllOpportunities</members>
+        <members>Opportunity.ClosingNextMonth</members>
+        <members>Opportunity.ClosingThisMonth</members>
+        <members>Opportunity.Default_Opportunity_Pipeline</members>
+        <members>Opportunity.MyOpportunities</members>
+        <members>Opportunity.NewLastWeek</members>
+        <members>Opportunity.NewThisWeek</members>
+        <members>Opportunity.Private</members>
+        <members>Opportunity.Won</members>
+        <members>Order.AllActivatedOrders</members>
+        <members>Order.AllDraftOrders</members>
+        <members>Order.AllOrders</members>
+        <members>Product2.AllProducts</members>
+        <members>Solution.AllReviewedSolutions</members>
+        <members>Solution.AllUnreviewedSolutions</members>
+        <members>User.ActiveUsers</members>
+        <members>User.AdminUsers</members>
+        <members>User.AllUsers</members>
+        <name>ListView</name>
+    </types>
 </Package>
